@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Roopakvignesh
 - 👀 I’m interested in Cybersecurity (ethical), Development (python).
 - 🌱 I’m currently learning Python, Ethical hacking.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail: roopakfaster500@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Yes means YES No means NO can't youuu understand...!
