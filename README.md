@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Roopakvignesh
-- 👀 I’m interested in Cybersecurity (ethical), Development (python).
-- 🌱 I’m currently learning Python, Ethical hacking.
-- 📫 How to reach me Gmail: roopakfaster500@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Yes means YES No means NO can't youuu understand...!
+- 👀 I’m a Developer (python).
+- 🌱 I’m currently learning Python full stack (seeking experience).
+- 📫 How to reach me
+- Gmail: roopakfaster500@gmail.com
+
 
 <!---
 Roopakvignesh/Roopakvignesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
